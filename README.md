@@ -21,7 +21,7 @@
 
 ### 1️⃣ [Victoria Traffic Accident Analysis Dashboard](https://github.com/ANNAchill/Visualization_Tableau)  
 - Built an interactive Tableau dashboard analyzing traffic accidents in Victoria, visualizing trends, hotspots, and demographics.  
-- **Tech Stack**: Tableau, Mapbox  
+- **Tech Stack**: Tableau 
 
 ### 2️⃣ **Generating High-Frequency Datasets for River Water Quality Monitoring**  
 - Developed machine learning models to predict **NOx (Nitrate/Nitrite)** concentrations from low-frequency data, supporting real-time monitoring of river water quality.  
@@ -36,7 +36,7 @@
 
 ### 4️⃣ [R Shiny Dashboard for Melbourne Exploration](https://github.com/ANNAchill/Visualization_R)  
 - Developed an interactive R Shiny dashboard to visualize Melbourne's attractions, transport routes, and entertainment hotspots.  
-- **Tech Stack**: R Shiny, ggplot2, Leaflet  
+- **Tech Stack**: R Shiny, ggplot2  
 
 ### 5️⃣ [Exploratory Data Analysis with Python](https://github.com/ANNAchill/Dataprocessing_EDA)  
 - Conducted comprehensive EDA to uncover actionable insights, including trend analysis and data visualization.  
