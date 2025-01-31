@@ -51,11 +51,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANNAchill&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANNAchill&layout=compact&theme=radical)
-
----
 
 🎯 **Career Goal**:  
 To join a forward-thinking team as a **Data Analyst**, where I can apply my statistical expertise, programming skills, and passion for uncovering insights from data to drive impactful decisions.
