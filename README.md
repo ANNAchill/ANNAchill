@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Wanxuan** 
+# Hi there! 👋
 
 🎓 **Education**:  
 - **Master's in Data Science** – University of Melbourne  
