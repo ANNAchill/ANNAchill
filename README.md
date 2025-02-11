@@ -36,7 +36,7 @@
 
 ### 4️⃣ [R Shiny Dashboard for Melbourne Exploration](https://github.com/ANNAchill/Visualization_R)  
 - Developed an interactive R Shiny dashboard to visualize Melbourne's attractions, transport routes, and entertainment hotspots.  
-- **Tech Stack**: R Shiny, ggplot2  
+- **Tech Stack**: R Shiny, ggplot2, Tableau  
 
 ### 5️⃣ [Exploratory Data Analysis with Python](https://github.com/ANNAchill/Dataprocessing_EDA)  
 - Conducted comprehensive EDA to uncover actionable insights, including trend analysis and data visualization.  
