@@ -42,6 +42,12 @@
 - Conducted comprehensive EDA to uncover actionable insights, including trend analysis and data visualization.  
 - **Tech Stack**: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook  
 
+### 6️⃣ [Rental Prices Analysis in Melbourne](https://github.com/ANNAchill/RentalPricesAnalysisinMelbourne)  
+- Analyzed the factors affecting rental prices in Melbourne, such as proximity to landmarks (universities, hospitals, stations), crime rates, and land use patterns.  
+- Conducted spatial analysis, correlation studies, and regression modeling to uncover the relationships between rental prices and various socio-economic factors.  
+- Implemented machine learning models including OLS regression, spatial lag models, and K-means clustering to identify key drivers of rental price variations.  
+- **Tech Stack**: Python, GeoPandas, Pandas, Matplotlib, Scikit-learn  
+
 ---
 
 ## 🌱 **What I'm Learning**
